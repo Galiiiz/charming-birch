@@ -1,6 +1,6 @@
 ---
 title: 'Salut, tu veux savoir quoi ?'
-subtitle: This is a short page about me and my work
+subtitle: 'Je suis un jeune noob en créa, mais j''essaye tjrs de me débrouiller'
 img_path: images/about.jpg
 seo:
   type: stackbit_page_meta
