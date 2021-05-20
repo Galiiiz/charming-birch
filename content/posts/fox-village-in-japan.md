@@ -6,7 +6,6 @@ subtitle: >-
 date: '2020-01-11'
 thumb_img_path: /images/Header.jpg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
