@@ -8,7 +8,7 @@ params:
     tagline: YYYEAAAH IT'S MEEEEE
     logo_img: /images/logo adrien.png
     logo_img_alt: Fjord Logo
-    background_img: images/header-bg.jpg
+    background_img: /images/friendly-rosemary.jpg
     has_nav: true
     nav_links:
       - type: action
