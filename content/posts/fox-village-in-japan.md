@@ -3,7 +3,7 @@ title: BLOG TEST POUR TP
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
-date: '2020-05-20'
+date: '0002-05-20'
 thumb_img_path: /images/Header.jpg
 thumb_img_alt: A red fox sitting on a meadow
 excerpt: Bienvenue sur un site test pour un tp
