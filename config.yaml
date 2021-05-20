@@ -16,7 +16,7 @@ params:
         url: /
         style: link
       - type: action
-        label: About
+        label: Tu veux en savoir plus ?
         url: /about
         style: link
       - type: action
