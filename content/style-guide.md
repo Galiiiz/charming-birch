@@ -4,7 +4,7 @@ subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
-img_path: images/style-guide.jpg
+img_path: /images/73341375_108694560551198_9139257803897044992_o-732x1024.jpg
 seo:
   type: stackbit_page_meta
   title: Theme Style Guide
