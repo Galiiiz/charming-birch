@@ -22,6 +22,7 @@ params:
       - type: action
         url: /style-guide
         style: link
+        label: Mes dessins
       - type: action
         label: Contact
         url: /contact
